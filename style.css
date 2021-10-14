@@ -48,8 +48,5 @@ a {
 
 .btn:hover {
   background-color: #fff;
-}
-
-.btn:hover a {
   color: black;
 }
